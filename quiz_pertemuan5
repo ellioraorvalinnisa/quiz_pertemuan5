@@ -133,8 +133,8 @@
         } else if (kopiPilihan == "kopirobusta") {
           kopi = "Robusta";
           total += robusta;
-        } else if (kopiPilihan == "kopilibertika") {
-          kopi = "Libertika";
+        } else if (kopiPilihan == "kopiliberika") {
+          kopi = "Liberika";
           total += libertika;
         } else if (kopiPilihan == "kopiekselsa") {
           kopi = "Ekselsa";
@@ -208,11 +208,11 @@
           </div>
           <div class="col-25">
             <input type="radio" id="sedang" name="ukuran" value="Sedang" />
-              <label for="sedang">Sedang</label><br />
+              <label for="sedang">Sedang</label><br />
           </div>
           <div class="col-25">
             <input type="radio" id="besar" name="ukuran" value="Besar" />
-              <label for="besar">Besar</label><br />
+              <label for="besar">Besar</label><br />
           </div>
         </div>
         <br />
@@ -227,5 +227,5 @@
         <p id="hasil" name="hasil"></p>
       </div>
     </div>
-  </body>
+  </body>
 </html>
