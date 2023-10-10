@@ -109,7 +109,7 @@
 
         let arabika = 10000;
         let robusta = 15000;
-        let libertika = 20000;
+        let liberika = 20000;
         let ekselsa = 25000;
 
         let ukuranSedang = 2500;
@@ -135,7 +135,7 @@
           total += robusta;
         } else if (kopiPilihan == "kopiliberika") {
           kopi = "Liberika";
-          total += libertika;
+          total += liberika;
         } else if (kopiPilihan == "kopiekselsa") {
           kopi = "Ekselsa";
           total += ekselsa;
